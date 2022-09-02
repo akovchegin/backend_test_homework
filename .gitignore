@@ -1,5 +1,5 @@
 README.md
-venv
+venv*
 __pycache__
 .vscode
 .mypy_cache
